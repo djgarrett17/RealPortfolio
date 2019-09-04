@@ -3,6 +3,7 @@ body{
     margin: 0;
     padding: 0;
     height: 100%;
+    overflow: hidden;
   
 }
 .pagecontainer{
@@ -95,10 +96,12 @@ body{
 .profilepic{
     grid-area: a;
     width: 275px;
-    height: 320px;
+    height: 340px;
     justify-self: center;
-    margin-top: -140px;
+    margin-top: -160px;
     border-radius: 100px 100px 100px 100px;
+    border: 4px double whitesmoke;
+    box-shadow: 0 0 15px 0;
 }
 .propicline{
     grid-area: a;
