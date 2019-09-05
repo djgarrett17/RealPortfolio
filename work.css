@@ -112,6 +112,7 @@ body{
     /* color: whitesmoke; */
     padding: 10px;
     text-align: center;
+      text-decoration: none;
     
   }
   .item:hover {
