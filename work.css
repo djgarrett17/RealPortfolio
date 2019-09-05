@@ -109,7 +109,7 @@ body{
   } */
   .item {
     /* background: rgba(219, 195, 195, 0.397); */
-    margin: 0px;
+    margin: 20px 0 0 0;
     
     /* font-family: 'Julius Sans One', sans-serif; */
     /* font-family: 'Roboto Mono', monospace; */
